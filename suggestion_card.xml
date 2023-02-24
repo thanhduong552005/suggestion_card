@@ -106,8 +106,8 @@
             android:gravity="left"
             android:paddingTop="0dp"
             android:paddingRight="53dp"
-            android:text="@string/card_button"
             android:textSelectHandleRight="@string/card_button"
+            android:textColor="@color/orange"                                               
             android:textSize="13dp" />
 
     </LinearLayout>
